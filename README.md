@@ -5,7 +5,7 @@ This repository contains all the code that was used to obtain the results of the
 risk of complex diseases". As the data used is medical data, it is not available to the public. It can be accessed after a data 
 request to the Wellcome trust Case Control Consortium.
 This code is not designed for all systems : it was run on a scientific linux 5 server that uses Sun Grid Engine (SGE) for 
-parallelisation. I have no idea of how portable the code. Here are a few requirements : 
+parallelisation. I have no idea of how portable the code is. Here are a few requirements : 
 moreutils (for sponge), conda, PLINK (as a command line), Shapeit v2 (as an executable in the parent directory).
 
 Folder architecture:
